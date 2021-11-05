@@ -1,0 +1,24 @@
+{
+    "name": "fancy-amdi-sew",
+    "version": "1.0.0",
+    "description": "Unlimited Fancy Text Generator By Black Amda And Ravindu Manoj",
+    "main": "fancy-amdi-sew.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/BlackAmda/fancy-amdi-sew"
+    },
+    "author": "Black Amda | Ravindu Manoj",
+    "license": "GNU",
+    "dependencies": {
+      
+    },
+    "devDependencies": {},
+    "bugs": {
+      "url": "https://github.com/BlackAmda/fancy-amdi-sew/issues"
+    },
+    "homepage": "https://github.com/BlackAmda/fancy-amdi-sew#readme"
+  }
+  
